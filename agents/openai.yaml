@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 278"
+  short_description: "文化剪影：上半保留原照，下半把主体收成剪纸感的文化小印章"
+  default_prompt: "Use $xxd-panel-278 to transform my photograph following the complete canonical source brief."
