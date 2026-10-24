@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-278
-description: "Create XXD Panel 278 raster artwork: a faithful photograph paired with one small cut-paper cultural seal, geometric folk shapes and risograph grain. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-278 or asks for this 文化剪影 style."
+description: "XXD Panel 278｜Cultural Silhouette: keeps the photo and cuts its subject into one small cultural seal in a Japanese-leaning, poetic geometric naive style — a roof line, a mountain shape, a posture or a plant structure reduced to cut-paper silhouettes, geometric modules and large pure colour blocks with slightly irregular hand-cut edges and a few inner lines — printed with screen-print and risograph grain and slight misregistration on warm ivory or beige paper, in a clear limited palette such as forest green, cobalt, soft yellow and coral red from the photo, with lots of whitespace and a small exhibition-label style caption set apart. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-278 or asks for a cut-paper geometric seal, folk-modern cultural logo or risograph emblem from a photo."
 ---
 
 # XXD Panel 278

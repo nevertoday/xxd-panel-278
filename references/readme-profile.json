@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 278｜Cultural Silhouette: keeps the photo and cuts its subject into one small cultural seal in a Japanese-leaning, poetic geometric naive style — a roof line, a mountain shape, a posture or a plant structure reduced to cut-paper silhouettes, geometric modules and large pure colour blocks with slightly irregular hand-cut edges and a few inner lines — printed with screen-print and risograph grain and slight misregistration on warm ivory or beige paper, in a clear limited palette such as forest green, cobalt, soft yellow and coral red from the photo, with lots of whitespace and a small exhibition-label style caption set apart. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-278 or asks for a cut-paper geometric seal, folk-modern cultural logo or risograph emblem from a photo.",
+  "short_description": "文化剪影：把照片主体剪成几何色块拼出的剪纸感文化小印章",
+  "zh-CN": {
+    "name": "文化剪影",
+    "tagline": "把照片主体剪成一枚几何色块拼成、带丝网印刷感的剪纸小印章。",
+    "look": "原照片保留；主体被归纳成一个屋顶、一片山形、一种姿态或一种植物结构，用剪纸般的轮廓、几何模块和大面积纯色块拼出，边缘略不规则，像手工剪下，只留少量内部结构线。纸是暖象牙或米色，带丝网和 Risograph 的颗粒、轻微套印偏差和不均匀墨色。颜色从照片里调出森林绿、钴蓝、柔和黄、珊瑚红这样清楚而少的组合。印章居中或略偏，四周很空，一行小字像展览标签，和图形隔开一段距离。",
+    "traits": [
+      "几何民艺",
+      "剪纸色块",
+      "丝网印刷",
+      "文化印章",
+      "暖白纸"
+    ],
+    "good": [
+      "有标志性外形的建筑或风景：一座神社、一座山、一排屋顶、一座宝塔",
+      "形态简单的植物、动物或器物：一枝松、一只鹿、一个陶罐",
+      "想做成文化机构、展览或设计工作室标志的旅行与日常照片"
+    ],
+    "poor": [
+      "靠人物表情、皮肤或衣料细节取胜的人像",
+      "元素很多、必须完整叙事的热闹场面",
+      "想要卡通角色、光滑企业矢量、3D 或复杂插画的需求"
+    ]
+  },
+  "en": {
+    "name": "Cultural Silhouette",
+    "tagline": "Cuts the subject of your photo into one small paper-cut seal of geometric colour with a screen-print feel.",
+    "look": "Your photo stays; the subject is distilled into a roof line, a mountain shape, a posture or a plant structure, pieced together from paper-cut outlines, geometric modules and large pure colour blocks with slightly irregular, hand-cut edges and only a few inner lines. The paper is warm ivory or beige, with screen-print and risograph grain, slight misregistration and uneven ink. Colours from the photo become a clear, small set such as forest green, cobalt, soft yellow and coral red. The seal sits centred or slightly off, with plenty of space around it and a small exhibition-label caption kept at a distance.",
+    "traits": [
+      "Geometric folk art",
+      "Cut-paper colour",
+      "Screen print",
+      "Cultural seal",
+      "Warm white paper"
+    ],
+    "good": [
+      "Buildings or landscapes with an iconic shape: a shrine, a mountain, a row of roofs, a pagoda",
+      "Simple plants, animals or objects: a pine branch, a deer, a clay jar",
+      "Travel and everyday photos you want as the mark of a cultural institution, exhibition or design studio"
+    ],
+    "poor": [
+      "Portraits that depend on facial expression, skin or fabric detail",
+      "Busy scenes with many elements that need the full story told",
+      "Requests for cartoon characters, slick corporate vectors, 3D or a detailed illustration"
+    ]
+  },
+  "ja": {
+    "name": "文化の切り絵",
+    "tagline": "写真の主役を、幾何学的な色面で組んだシルクスクリーン風の切り絵の小さな印章にします。",
+    "look": "元の写真は残し、主役を屋根の線、山の形、ひとつの姿勢、植物の構造のどれかにまとめ、切り絵のような輪郭、幾何学モジュール、大きな純色の面で組み立てます。縁は手で切ったように少し不揃いで、内側の線はわずかです。紙は温かなアイボリーやベージュで、シルクスクリーンやリソグラフの粒子、軽い版ずれ、インクのむらがあります。色は写真から森の緑、コバルト、柔らかな黄、コーラルレッドのような、はっきりした少数色に整えます。印章は中央か少しずらして置かれ、まわりは広く空き、展覧会のラベルのような小さな文字が距離をとって添えられます。",
+    "traits": [
+      "幾何学の民藝",
+      "切り絵の色面",
+      "シルクスクリーン",
+      "文化の印章",
+      "温かな白い紙"
+    ],
+    "good": [
+      "象徴的な形の建物や風景：神社、山、並んだ屋根、五重塔",
+      "形のシンプルな植物、動物、器：松の枝、鹿、陶器の壺",
+      "文化施設、展覧会、デザイン事務所のマークにしたい旅行や日常の写真"
+    ],
+    "poor": [
+      "表情や肌、布地の細部が魅力の人物写真",
+      "要素が多く、物語全体を見せる必要があるにぎやかな場面",
+      "キャラクター、つるっとした企業向けベクター、3D、細密なイラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "문화 실루엣",
+    "tagline": "사진 속 주인공을 기하학 색면으로 짠, 실크스크린 느낌의 종이 오리기 작은 인장으로 만듭니다.",
+    "look": "원본 사진은 남기고, 주인공을 지붕선 하나, 산 모양 하나, 자세 하나, 식물 구조 하나로 추려 종이를 오린 듯한 윤곽과 기하학 모듈, 넓은 단색 면으로 짭니다. 가장자리는 손으로 오린 듯 조금 고르지 않고, 안쪽 선은 아주 적습니다. 종이는 따뜻한 상아색이나 베이지이고, 실크스크린과 리소그래프의 입자, 약간의 판 어긋남, 고르지 않은 잉크가 남습니다. 색은 사진에서 숲 초록, 코발트, 부드러운 노랑, 코랄 레드처럼 분명하고 적은 조합으로 정리합니다. 인장은 가운데나 약간 비켜 놓이고 주변은 넓게 비며, 전시 라벨 같은 작은 글자가 거리를 두고 붙습니다.",
+    "traits": [
+      "기하학 민예",
+      "오린 종이 색면",
+      "실크스크린",
+      "문화 인장",
+      "따뜻한 흰 종이"
+    ],
+    "good": [
+      "상징적인 형태의 건물이나 풍경: 신사, 산, 늘어선 지붕, 탑",
+      "형태가 단순한 식물, 동물, 기물: 소나무 가지, 사슴, 도자기 항아리",
+      "문화 기관, 전시, 디자인 스튜디오 마크로 쓰고 싶은 여행 사진과 일상 사진"
+    ],
+    "poor": [
+      "표정이나 피부, 옷감 디테일이 매력인 인물 사진",
+      "요소가 많고 이야기 전체를 보여 줘야 하는 붐비는 장면",
+      "캐릭터, 매끈한 기업용 벡터, 3D, 세밀한 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الظل الثقافي",
+    "tagline": "يقصّ العنصر الرئيسي في صورتك ختماً صغيراً من بقع لونية هندسية كقصاصات الورق، بطابع الطباعة الحريرية.",
+    "look": "تبقى صورتك، ويُختزل العنصر في خط سقف أو هيئة جبل أو وضعية أو بنية نبتة، يُركَّب من خطوط خارجية كقصاصات الورق ووحدات هندسية وبقع لونية صافية واسعة، حوافها غير منتظمة قليلاً كأنها قُصّت باليد، مع خطوط داخلية قليلة. الورق عاجي دافئ أو بيج، فيه حبيبات الطباعة الحريرية والريزوغراف وانزياح طفيف في التسجيل وحبر غير متساوٍ. تتحول ألوان الصورة إلى مجموعة صغيرة واضحة كأخضر الغابة والكوبالت والأصفر الناعم والأحمر المرجاني. يقع الختم في الوسط أو منحرفاً قليلاً، والمساحة حوله واسعة، مع تعليق صغير كبطاقة معرض يبتعد عنه قليلاً.",
+    "traits": [
+      "فن شعبي هندسي",
+      "ألوان مقصوصة",
+      "طباعة حريرية",
+      "ختم ثقافي",
+      "ورق أبيض دافئ"
+    ],
+    "good": [
+      "مبانٍ أو مناظر بشكل أيقوني: معبد، جبل، صف من الأسطح، باغودا",
+      "نباتات أو حيوانات أو أوانٍ بسيطة الشكل: غصن صنوبر، غزال، جرّة فخار",
+      "صور سفر ويوميات تريدها شعاراً لمؤسسة ثقافية أو معرض أو مكتب تصميم"
+    ],
+    "poor": [
+      "صور شخصية تعتمد على تعابير الوجه أو البشرة أو تفاصيل القماش",
+      "مشاهد مزدحمة بعناصر كثيرة تحتاج إلى رواية القصة كاملة",
+      "طلب شخصيات كرتونية أو رسوم متجهية مؤسسية لامعة أو مظهر ثلاثي الأبعاد أو رسم مفصّل"
+    ]
+  }
+}
